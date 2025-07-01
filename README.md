@@ -1,5 +1,3 @@
-#markdown<br>
-
 ### 💜 GitHub Statistics<br>
 
 <p align="center"> 
